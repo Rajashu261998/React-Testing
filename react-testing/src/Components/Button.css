@@ -1,0 +1,15 @@
+.btn{
+    color:white;
+    cursor: pointer;
+    font-size: 30px;
+    margin: 3rem 0;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.ghost{
+    border: none
+}
