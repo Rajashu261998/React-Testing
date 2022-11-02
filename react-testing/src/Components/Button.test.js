@@ -53,7 +53,7 @@ describe("Testing the Custom button component",()=>{
     it('should create/match the snapshot',()=>{
         const tree = renderer
         .create(
-            <Button colorScheme={'gree'} variant={'boedered'}>
+            <Button colorScheme={'green'} variant={'bordered'}>
                 Custom Button
             </Button>
         )
